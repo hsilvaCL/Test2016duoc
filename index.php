@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         /*Que buen programador soy, no necesito IDE!!!!!*/
+        /*Otro cambio*/
         // put your code here
         ?>
     </body>
